@@ -4,5 +4,6 @@ I'm added new in staging
 
 new addition 4 - random text
 new addition 6 - random text as well
+new addition 5 - on charbelbranch
 
 added in staging
